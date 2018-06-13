@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+# Site settings
+title: Ditho Ardiansyah Pulungan
+description: > # this means to ignore newlines until "baseurl:"
+ Ditho Ardiansyah Pulungan's homepage
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dithoap.github.io" # the base hostname & protocol for your site
+github_username:  dithoap
+markdown: kramdown
+highlighter: rouge
+gems: ['jekyll/scholar']
+
+# Build settings
+exclude: ['_drafts', 'convert_notebook.sh', 'nbconvert-jekyll-post.tpl', 'nbconvert_utils.py', 'nbconvert_config.py', 'readings', 'Makefile']
+include: ['readings.pdf']
+=======
